@@ -1,0 +1,11 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(âìËÊ
+u	java:S127¤"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè8¡£õÓ€/
+0
+java:S1220""Move this file to a named package.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(şüÄüùÿÿÿÿ
+3
+java:S2119"Save and re-use this "Random".(¼İÅf
+B
+java:S1602
+",Remove useless curly braces around statement(û­à€

@@ -1,0 +1,25 @@
+
+j	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§©¹¼8ˆ×íû€/
+V	java:S106˜"9Replace this use of System.out or System.err by a logger.(ñ£ë8ÄşÌ‚/
+n
+java:S1149³"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ŠÈİà8«Îƒ/
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸Ï ñúÿÿÿÿ
+f
+java:S2583z"DChange this condition so that it does not always evaluate to "false"(¨÷ò”ıÿÿÿÿ8ûı€/
+@
+java:S1659D"#Declare "right" on a separate line.(æÉ¾Í8Ş²Èü€/
+n
+java:S1149“"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ŠÈİà8ßü–ı€/
+n
+java:S1149£"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ŠÈİà8¤¾ø‚/
+V	java:S106Š"9Replace this use of System.out or System.err by a logger.(å¿“8ù­À‚/
+k	java:S100‘"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÍğø8ßü–ı€/
+p	java:S100ˆ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ•ùşüÿÿÿÿ8è¸ı€/
+0
+java:S1220""Move this file to a named package.
+@
+java:S1659["#Declare "right" on a separate line.(Âİ¡8£â½ü€/
+X
+java:S1128";Remove this unused import 'sun.reflect.generics.tree.Tree'.(ºğ“´8–¤ñû€/
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(ºğ“´8–¤ñû€/
